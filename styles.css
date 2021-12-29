@@ -9,40 +9,15 @@ body {
     overflow: hidden;
     font-family: 'Poppins';
   }
-  
-  .wrapper {
-    color: #fff;
-    text-align: center;
-    background-color: #171717;
-    padding: 20px;
-    border-radius: 12px ;
-    letter-spacing: 4px;
-  }
     
   #seconds, #tens {
     font-size: 3em;
-}
-
-#seconds:hover, #tens:hover {
-    color: black;
-    background: lightsteelblue;
-    border-radius: 10px;
-    padding: 3px;
-}  
-  
-  button {
-    border-radius: 5px;
-    background-image: linear-gradient(180deg, #f990ff 0, #a974ff 25%, #5353f2 50%, #0033b2 75%, #001979 100%);
-    color: #fff;
-    border: solid 1px #fff;
-    text-decoration: none;
-    cursor: pointer;
-    font-size: 1.8em;
-    padding: 18px 10px;
-    width: 180px;
-    margin: 10px;
-    outline: none;
-    transition: all 0.2s ease-in-out;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
   }
+
+  .btn-success, .btn-danger, .btn-warning {
+    margin: 3px;
+  }
+  
+  
+
