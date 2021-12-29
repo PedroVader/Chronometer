@@ -1,8 +1,9 @@
 /* Variabes */
 /* Mixin's */
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
 body {
-    background: #e4e4e4;
     display: flex; justify-content: center; align-items: center;
     width: 100vw;
     height: 100vh;
